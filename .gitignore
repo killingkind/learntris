@@ -17,6 +17,9 @@
 
 # Backup/Temp/IDE Files
 .idea
+.vscode
+bin
+obj
 .#*
 #*.*
 *.*#
